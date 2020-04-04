@@ -18,4 +18,6 @@ There are three components to RUC.
 
 3. There are phase [exit criteria](./exit-criteria.md). These are the shorter term objectives that the scientist and or science/engineering team are workign towards.
 
+4. There is the innovation type: is it greenfield innovation, brownfield innovation, or infrastructure?
+
 Importantly, the scientist themselves controls the early transition between phases, defining their exit criteria and also dropping back phases when a particular approach is found to be a dead and backtracking is required. As the route to the relevant solution is identified, the process moves more towards a classical engineering approach (which, e.g. in software could be SCRUM).
